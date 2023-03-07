@@ -1,2 +1,2 @@
-# frontend-Mentor-Easybank-landing-page-challenge
+# manage-landing-page-challenge
 first project
